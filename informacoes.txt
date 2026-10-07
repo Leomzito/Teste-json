@@ -1,0 +1,14 @@
+VETORES
+alunos[5]
+0 = aluno 1
+1 = aluno 2
+2 = aluno 3
+3 = aluno 4
+4 = aluno 5
+
+^^^^^^^^^^^^
+ISSO É UM ARRRAY SEQUENCIAL
+
+ARRAY ASSOCIATIVO
+"nome": "aluno 1",
+"nome2": "aluno 2"
